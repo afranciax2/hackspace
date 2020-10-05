@@ -2,7 +2,6 @@ import math
 
 # Bucle indeterminado
 
-"""
 i = 1
 
 while i <= 10:
@@ -18,7 +17,6 @@ while edad < 1 or edad > 100:
     edad = int(input("Ingresar edad: "))
 
 print("Gracias por colaborar")
-"""
 
 # Hallar la raíz cuadrada de un número
 
