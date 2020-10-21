@@ -143,4 +143,3 @@ if __name__ == "__main__":
     venusaur = Pokemon('Venusaur', 'planta', ['Latigo Ceoa', 'Hoja Afilada', 'Rayo Solar', 'Abatidora'], {'ataque':8, 'defensa':12})
     charizard.batalla(blastoise)
     #blastoise.batalla(venusaur)
-    #venusaur.batalla(charizard)
