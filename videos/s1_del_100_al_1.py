@@ -1,0 +1,9 @@
+print("Decremento del 100 al 1")
+
+NUMERO_INI = 100
+NUMERO_FIN = 1
+DECREMENTO = 1
+
+while NUMERO_INI >= NUMERO_FIN:
+    print(NUMERO_INI)
+    NUMERO_INI -= DECREMENTO
